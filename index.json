@@ -35,11 +35,83 @@
     },
 	{
 	  "game": "Deep Dungeon IV Kuro no Yojutsushi",
-      "file": "jingles/nes/Deep Dungeon IV Kuro no Yōjutsushi.ogg"
+      "file": "jingles/nes/Deep Dungeon IV Kuro no Yojutsushi.ogg"
     },
 	{
-	  "game": "Battletoads & Double Dragon - The Ultimate Team",
+	  "game": "Battletoads-Double Dragon",
       "file": "jingles/nes/Battletoads & Double Dragon - The Ultimate Team.ogg"
-    }
+    },
+	{
+	  "game": "Dragon Warrior",
+      "file": "jingles/nes/Dragon Quest.ogg"
+    },
+	{
+		"game": "Dragon Warrior II",
+      "file": "jingles/nes/Dragon Warrior II.ogg"
+    },
+	{
+		"game": "Dragon Warrior III",
+      "file": "jingles/nes/Dragon Warrior III.ogg"
+    },
+	{
+		"game": "Dragon Warrior IV",
+      "file": "jingles/nes/Dragon Warrior IV.ogg"
+    },
+	{
+		"game": "Ghosts'n Goblins",
+      "file": "jingles/nes/Ghosts n Goblins.ogg"
+    },
+	{
+		"game": "Joy Mech Fight",
+      "file": "jingles/nes/Joy Mech Fight.ogg"
+    },
+	{
+		"game": "Maniac Mansion",
+      "file": "jingles/nes/Maniac Mansion.ogg"
+    },
+	{
+		"game": "Splatterhouse - Wanpaku Graffiti",
+      "file": "jingles/nes/Splatterhouse - Wanpaku Graffiti.ogg"
+    },
+	{
+		"game": "Teenage Mutant Ninja Turtles II - The Arcade Game",
+      "file": "jingles/nes/TMNTII.ogg"
+    },
+	{
+		"game": "Teenage Mutant Ninja Turtles III - Manhattan Project",
+      "file": "jingles/nes/TMNTIII.ogg"
+    },
+	{
+		"game": "Ultima - Exodus",
+      "file": "jingles/nes/Ultima Exodus.ogg"
+    },
+	{
+		"game": "Ultima - Quest of the Avatar",
+      "file": "jingles/nes/Ultima - Quest of the Avatar.ogg"
+    },
+	{
+		"game": "Ultima - Warriors of Destiny",
+      "file": "jingles/nes/Ultima - Warriors of Destiny.ogg"
+    },
+	{
+		"game": "Wizardry - Knight of Diamonds",
+      "file": "jingles/nes/Wizardry - Knight of Diamonds.ogg"
+    },
+	{
+		"game": "Wizardry - Proving Grounds of the Mad Overlord",
+      "file": "jingles/nes/Wizardry - Proving Grounds of the Mad Overlord.ogg"
+    },
+	{
+		"game": "Wizards & Warriors",
+      "file": "jingles/nes/Wizards & Warriors.ogg"
+    },
+	{
+		"game": "Wizards & Warriors III",
+      "file": "jingles/nes/Wizards & Warriors III.ogg"
+    },
+	{
+		"game": "Ys II",
+      "file": "jingles/nes/Ys II.ogg"
+    },
   ]
 }
