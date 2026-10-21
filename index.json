@@ -1,0 +1,46 @@
+{
+  "name": "Knuxie's Video Game Esoterica",
+  "entries": [
+    {
+      "game": "1942",
+      "file": "jingles/NES/1942.ogg"
+    },
+    {
+      "game": "1943",
+      "file": "jingles/NES/1943.ogg"
+    },
+	{
+	  "game": "Advanced Dungeons & Dragons - DragonStrike",
+      "file": "jingles/NES/Advanced Dungeons & Dragons - DragonStrike"
+    },
+	{
+		"game": "Advanced Dungeons & Dragons - Heroes of the Lance",
+      "file": "jingles/NES/Advanced Dungeons & Dragons - Heroes of the Lance.ogg"
+    },
+	{
+		"game": "Advanced Dungeons & Dragons - Hillsfar",
+      "file": "jingles/NES/Advanced Dungeons & Dragons - Hillsfar.ogg"
+    },
+	{
+		"game": "Advanced Dungeons & Dragons - Pool of Radiance",
+      "file": "jingles/NES/Advanced Dungeons & Dragons - Pool of Radiance.ogg"
+    },
+	{
+	  "game": "Cabal",
+      "file": "jingles/NES/Cabal.ogg"
+    },
+	{
+	  "game": "Deep Dungeon 3 - Yuushi heno Tabi",
+      "file": "jingles/NES/Deep Dungeon 3 - Yuushi heno Tabi.ogg"
+    },
+	{
+	  "game": "Deep Dungeon IV Kuro no Yōjutsushi",
+      "file": "jingles/NES/Deep Dungeon IV Kuro no Yōjutsushi.ogg"
+    },
+	{
+	  "game": "Battletoads & Double Dragon - The Ultimate Team",
+      "file": "jingles/NES/Battletoads & Double Dragon - The Ultimate Team.ogg"
+    },
+	{
+  ]
+}
