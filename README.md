@@ -5,7 +5,8 @@ The goal is to offer jingles for games not covered in other repos. This reposito
 
 Contents include: 
 
->NES
+NES
+
 1942
 1943
 Advanced Dungeons & Dragons - DragonStrike
